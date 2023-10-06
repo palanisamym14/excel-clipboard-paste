@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "rxjs": "6.1.0",
-    "core-js": "2.5.5",
+    "core-js": "2.6.12",
     "zone.js": "0.8.26",
     "@angular/cdk": "6.4.0",
     "@angular/core": "6.0.0",
