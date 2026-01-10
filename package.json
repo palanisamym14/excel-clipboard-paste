@@ -7,11 +7,11 @@
     "core-js": "2.5.5",
     "zone.js": "0.8.26",
     "@angular/cdk": "6.4.0",
-    "@angular/core": "6.0.0",
+    "@angular/core": "19.2.18",
     "@angular/forms": "6.0.0",
     "@angular/common": "6.0.0",
     "@angular/router": "6.0.0",
-    "@angular/compiler": "6.0.0",
+    "@angular/compiler": "19.2.18",
     "@angular/platform-browser": "6.0.0",
     "@angular/platform-browser-dynamic": "6.0.0"
   },
